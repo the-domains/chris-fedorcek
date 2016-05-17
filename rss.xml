@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Chris Fedorcek]]></title>
+        <description><![CDATA[Chris Fedorcek]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 17 May 2016 12:32:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"Therefore, submit to God. But resist the Devil, and he will flee from you." (James 4:7 HCSB)</p>]]></description>
+            <link>undefinedtherefore-submit-to-god-but-resist-the-devil-and-he-will/index.html</link>
+            <guid isPermaLink="false">0dd5ee8b-aa9b-48f5-b7d9-e2c5e729f234</guid>
+            <pubDate>Tue, 17 May 2016 12:32:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
